@@ -2,6 +2,7 @@
 
 The Anythink Frontend is an SPA written with [React](https://reactjs.org/) and [Redux](https://redux.js.org/)
 
+
 ## Getting started
 
 Make sure your server is up and running to serve requests.
